@@ -1,4 +1,5 @@
 <!-- The project is made from https://youtu.be/b9eMGE7QtTk -->
+#[LIVE SITE](https://popcorn-and-movieland.netlify.app)
 
 - A basic react project made to understand about states, hooks and props.
 - To fetch the movies, I have used an api from [here](https://omdbapi.com/apikey.aspx)
